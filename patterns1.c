@@ -1,5 +1,5 @@
 /*
-	Name: c programe for print pattern
+	Name: C Program for Print pattern
 	INPUT = 5
 	*
 	**
